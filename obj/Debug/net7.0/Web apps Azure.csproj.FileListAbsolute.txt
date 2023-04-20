@@ -1,0 +1,31 @@
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\bin\Debug\net7.0\appsettings.json
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\bin\Debug\net7.0\Web apps Azure.staticwebassets.runtime.json
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\bin\Debug\net7.0\Web apps Azure.exe
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\bin\Debug\net7.0\Web apps Azure.deps.json
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\bin\Debug\net7.0\Web apps Azure.runtimeconfig.json
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\bin\Debug\net7.0\Web apps Azure.dll
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\bin\Debug\net7.0\Web apps Azure.pdb
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\Web apps Azure.csproj.AssemblyReference.cache
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\Web apps Azure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\Web apps Azure.AssemblyInfoInputs.cache
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\Web apps Azure.AssemblyInfo.cs
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\Web apps Azure.csproj.CoreCompileInputs.cache
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\Web apps Azure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\Web apps Azure.RazorAssemblyInfo.cache
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\Web apps Azure.RazorAssemblyInfo.cs
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\staticwebassets\msbuild.Web apps Azure.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\staticwebassets\msbuild.build.Web apps Azure.props
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web apps Azure.props
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web apps Azure.props
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\scopedcss\bundle\Web apps Azure.styles.css
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\scopedcss\projectbundle\Web apps Azure.bundle.scp.css
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\Web apps Azure.dll
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\refint\Web apps Azure.dll
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\Web apps Azure.pdb
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\Web apps Azure.genruntimeconfig.cache
+C:\Users\Dante\Desktop\TRABAJO\Platzi\Web apps Azure\obj\Debug\net7.0\ref\Web apps Azure.dll
